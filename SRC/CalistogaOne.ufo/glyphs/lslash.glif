@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lslash" format="1">
+  <advance width="780"/>
+  <unicode hex="0142"/>
+  <outline>
+    <contour>
+      <point x="807" y="1048" type="line" name="hr00"/>
+      <point x="820" y="1103"/>
+      <point x="812" y="1158"/>
+      <point x="782" y="1209" type="curve"/>
+      <point x="20" y="769" type="line"/>
+      <point x="96" y="637" type="line"/>
+    </contour>
+    <component base="l" xOffset="49"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.guides</key>
+  <array>
+    <dict>
+      <key>angle</key>
+      <real>90</real>
+      <key>isGlobal</key>
+      <false/>
+      <key>magnetic</key>
+      <integer>5</integer>
+      <key>x</key>
+      <real>80</real>
+      <key>y</key>
+      <real>0</real>
+    </dict>
+  </array>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjEyMDkiIHdpZHRoPSItMjAiIC8+CiAgICAg
+IDx2c3RlbSBwb3M9Ijc4MiIgd2lkdGg9IjMxIiAv
+PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
+c3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

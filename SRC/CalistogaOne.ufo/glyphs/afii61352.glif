@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii61352" format="1">
+  <advance width="2840"/>
+  <unicode hex="2116"/>
+  <outline>
+    <contour>
+      <point x="447" y="1055" type="line"/>
+      <point x="1059" y="81" type="line"/>
+      <point x="1116" y="1"/>
+      <point x="1143" y="-24"/>
+      <point x="1306" y="-27" type="curve"/>
+      <point x="1367" y="-27" type="line"/>
+      <point x="1367" y="1298" type="line" smooth="yes"/>
+      <point x="1367" y="1380"/>
+      <point x="1407" y="1411"/>
+      <point x="1506" y="1411" type="curve"/>
+      <point x="1506" y="1463"/>
+      <point x="1487" y="1515"/>
+      <point x="1455" y="1552" type="curve"/>
+      <point x="1013" y="1552" type="line"/>
+      <point x="980" y="1515"/>
+      <point x="961" y="1463"/>
+      <point x="961" y="1411" type="curve"/>
+      <point x="1061" y="1411"/>
+      <point x="1102" y="1380"/>
+      <point x="1102" y="1298" type="curve" smooth="yes"/>
+      <point x="1101" y="604" type="line"/>
+      <point x="631" y="1364" type="line"/>
+      <point x="556" y="1478"/>
+      <point x="458" y="1552"/>
+      <point x="362" y="1552" type="curve" smooth="yes"/>
+      <point x="111" y="1552" type="line"/>
+      <point x="79" y="1515"/>
+      <point x="61" y="1463"/>
+      <point x="61" y="1411" type="curve"/>
+      <point x="161" y="1411"/>
+      <point x="200" y="1380"/>
+      <point x="200" y="1298" type="curve" smooth="yes"/>
+      <point x="200" y="254" type="line" smooth="yes"/>
+      <point x="200" y="171"/>
+      <point x="161" y="141"/>
+      <point x="61" y="141" type="curve"/>
+      <point x="61" y="89"/>
+      <point x="79" y="36"/>
+      <point x="111" y="0" type="curve"/>
+      <point x="535" y="0" type="line"/>
+      <point x="567" y="36"/>
+      <point x="586" y="89"/>
+      <point x="586" y="141" type="curve"/>
+      <point x="486" y="141"/>
+      <point x="447" y="171"/>
+      <point x="447" y="254" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="2039" y="965" type="curve" smooth="yes" name="hr01"/>
+      <point x="2039" y="1312"/>
+      <point x="2097" y="1387"/>
+      <point x="2190" y="1387" type="curve" smooth="yes"/>
+      <point x="2293" y="1387"/>
+      <point x="2357" y="1305"/>
+      <point x="2357" y="887" type="curve" smooth="yes"/>
+      <point x="2357" y="540"/>
+      <point x="2299" y="464"/>
+      <point x="2206" y="464" type="curve" smooth="yes"/>
+      <point x="2103" y="464"/>
+      <point x="2039" y="547"/>
+    </contour>
+    <contour>
+      <point x="2186" y="305" type="curve" smooth="yes"/>
+      <point x="2516" y="305"/>
+      <point x="2730" y="526"/>
+      <point x="2730" y="941" type="curve" smooth="yes"/>
+      <point x="2730" y="1335"/>
+      <point x="2528" y="1545"/>
+      <point x="2209" y="1545" type="curve" smooth="yes"/>
+      <point x="1884" y="1545"/>
+      <point x="1673" y="1330"/>
+      <point x="1666" y="925" type="curve" smooth="yes"/>
+      <point x="1658" y="520"/>
+      <point x="1862" y="305"/>
+    </contour>
+    <component base="hyphen" xOffset="1635" yOffset="-610"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMSI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0zMSIgd2lkdGg9IjE1OSIgLz4KICAgICAg
+PGhzdGVtIHBvcz0iMTA1MSIgd2lkdGg9IjE1OCIg
+Lz4KICAgICAgPHZzdGVtIHBvcz0iMTY2NiIgd2lk
+dGg9IjExMDQiIC8+CiAgICA8L2hpbnRzZXQ+CiAg
+PC9oaW50U2V0TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>

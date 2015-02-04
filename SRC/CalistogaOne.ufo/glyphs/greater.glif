@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater" format="1">
+  <advance width="1184"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="1011" y="839" type="line" name="hr00"/>
+      <point x="371" y="1391" type="line"/>
+      <point x="320" y="1372"/>
+      <point x="243" y="1286"/>
+      <point x="224" y="1237" type="curve"/>
+      <point x="749" y="794" type="line"/>
+      <point x="224" y="351" type="line"/>
+      <point x="243" y="302"/>
+      <point x="320" y="216"/>
+      <point x="371" y="197" type="curve"/>
+      <point x="1011" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjE5NyIgd2lkdGg9IjExOTQiIC8+CiAgICAg
+IDx2c3RlbSBwb3M9IjIyNCIgd2lkdGg9Ijc4NyIg
+Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRM
+aXN0Pgo=
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccent.cap" format="1">
+  <advance width="736"/>
+  <outline>
+    <contour>
+      <point x="585" y="1848" type="curve" smooth="yes" name="hr00"/>
+      <point x="585" y="1968"/>
+      <point x="506" y="2047"/>
+      <point x="383" y="2047" type="curve" smooth="yes"/>
+      <point x="260" y="2047"/>
+      <point x="181" y="1968"/>
+      <point x="181" y="1848" type="curve" smooth="yes"/>
+      <point x="181" y="1728"/>
+      <point x="260" y="1649"/>
+      <point x="383" y="1649" type="curve" smooth="yes"/>
+      <point x="506" y="1649"/>
+      <point x="585" y="1728"/>
+    </contour>
+    <contour>
+      <point x="383" y="1050" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9IjAiIHdpZHRoPSIxMjkiIC8+CiAgICAgIDxo
+c3RlbSBwb3M9IjEyMDkiIHdpZHRoPSItMjAiIC8+
+CiAgICAgIDx2c3RlbSBwb3M9Ijc1IiB3aWR0aD0i
+NjE2IiAvPgogICAgPC9oaW50c2V0PgogIDwvaGlu
+dFNldExpc3Q+Cg==
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,111 @@
+
+# Script and language coverage
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn AZE ;
+languagesystem latn TRK ;
+languagesystem latn MOL ;
+languagesystem latn ROM ;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+feature aalt{
+  feature ordn;
+} aalt; 
+
+feature ordn {
+ script latn;
+  sub @ordn1 a' by ordfeminine;
+  sub @ordn1 o' by ordmasculine;
+  sub @ordn1 period a' by ordfeminine;
+  sub @ordn1 period o' by ordmasculine;
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+ } ordn; 
+
+feature frac { # Fractions
+ script latn; # Latin
+    sub one slash four by onequarter;
+    sub one slash two by onehalf;
+    sub three slash four by threequarters;
+    sub zero slash zero zero by perthousand;
+    sub zero slash zero by percent;
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+ } frac;
+
+feature sups { # Superscript
+ script latn; # Latin
+    sub @sups1 by @sups2;  
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+ } sups;
+
+feature liga {
+ script latn;
+  sub f f by f_f;
+  sub f i by fi;
+  sub f l by fl;
+  sub f f i by f_f_i;
+  sub f f l by f_f_l;
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+} liga; 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

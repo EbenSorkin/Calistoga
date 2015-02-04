@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slash" format="1">
+  <advance width="1343"/>
+  <unicode hex="002F"/>
+  <outline>
+    <contour>
+      <point x="240" y="-187" type="line" name="hr00"/>
+      <point x="284" y="-227"/>
+      <point x="381" y="-258"/>
+      <point x="437" y="-261" type="curve"/>
+      <point x="1103" y="1795" type="line"/>
+      <point x="1059" y="1836"/>
+      <point x="962" y="1867"/>
+      <point x="906" y="1870" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
+b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
+b3M9Ii0yNjEiIHdpZHRoPSIyMTMxIiAvPgogICAg
+ICA8dnN0ZW0gcG9zPSIyNTYiIHdpZHRoPSI4MzMi
+IC8+CiAgICA8L2hpbnRzZXQ+CiAgPC9oaW50U2V0
+TGlzdD4K
+  </data>
+  </dict>
+  </lib>
+</glyph>
