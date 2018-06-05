@@ -1,34 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guilsinglleft" format="1">
-  <advance width="861"/>
+  <advance width="420"/>
   <unicode hex="2039"/>
   <outline>
     <contour>
-      <point x="430" y="694" type="line" name="hr00"/>
-      <point x="689" y="1170" type="line"/>
-      <point x="664" y="1219"/>
-      <point x="626" y="1247"/>
-      <point x="582" y="1266" type="curve"/>
-      <point x="148" y="848" type="line"/>
-      <point x="148" y="712" type="line"/>
-      <point x="582" y="293" type="line"/>
-      <point x="626" y="313"/>
-      <point x="664" y="341"/>
-      <point x="689" y="389" type="curve"/>
-      <point x="430" y="865" type="line"/>
+      <point x="210" y="339" type="line" name="hr00"/>
+      <point x="336" y="571" type="line"/>
+      <point x="324" y="595"/>
+      <point x="306" y="609"/>
+      <point x="284" y="618" type="curve"/>
+      <point x="72" y="414" type="line"/>
+      <point x="72" y="348" type="line"/>
+      <point x="284" y="143" type="line"/>
+      <point x="306" y="153"/>
+      <point x="324" y="167"/>
+      <point x="336" y="190" type="curve"/>
+      <point x="210" y="422" type="line"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjMxMyIgd2lkdGg9IjkzMyIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iMTQ4IiB3aWR0aD0iNTQxIiAv
-PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
-c3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

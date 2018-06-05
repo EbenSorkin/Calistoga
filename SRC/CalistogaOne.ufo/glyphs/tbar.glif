@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="tbar" format="1">
-  <advance width="824"/>
+  <advance width="402"/>
   <unicode hex="0167"/>
   <outline>
     <contour>
-      <point x="757" y="565" type="line" name="hr00"/>
-      <point x="778" y="617"/>
-      <point x="780" y="717"/>
-      <point x="757" y="762" type="curve"/>
-      <point x="7" y="762" type="line"/>
-      <point x="-16" y="717"/>
-      <point x="-14" y="617"/>
-      <point x="7" y="565" type="curve"/>
+      <point x="370" y="276" type="line" name="hr00"/>
+      <point x="380" y="301"/>
+      <point x="381" y="350"/>
+      <point x="370" y="372" type="curve"/>
+      <point x="3" y="372" type="line"/>
+      <point x="-8" y="350"/>
+      <point x="-7" y="301"/>
+      <point x="3" y="276" type="curve"/>
     </contour>
     <component base="t"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjQ0OSIgd2lkdGg9IjE5NiIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iNiIgd2lkdGg9Ijc5NCIgLz4K
-ICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRMaXN0
-Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

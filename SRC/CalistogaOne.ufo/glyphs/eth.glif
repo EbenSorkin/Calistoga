@@ -1,73 +1,65 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eth" format="1">
-  <advance width="1222"/>
+  <advance width="597"/>
   <unicode hex="00F0"/>
   <outline>
     <contour>
-      <point x="1044" y="1681" type="line" name="hr00"/>
-      <point x="1031" y="1745"/>
-      <point x="994" y="1770"/>
-      <point x="951" y="1792" type="curve"/>
-      <point x="391" y="1427" type="line"/>
-      <point x="391" y="1395"/>
-      <point x="442" y="1321"/>
-      <point x="496" y="1313" type="curve"/>
+      <point x="510" y="821" type="line" name="hr00"/>
+      <point x="503" y="852"/>
+      <point x="485" y="864"/>
+      <point x="464" y="875" type="curve"/>
+      <point x="191" y="697" type="line"/>
+      <point x="191" y="681"/>
+      <point x="216" y="645"/>
+      <point x="242" y="641" type="curve"/>
     </contour>
     <contour>
-      <point x="628" y="128" type="curve" smooth="yes"/>
-      <point x="533" y="128"/>
-      <point x="455" y="187"/>
-      <point x="455" y="584" type="curve" smooth="yes"/>
-      <point x="455" y="933"/>
-      <point x="515" y="1021"/>
-      <point x="621" y="1021" type="curve" smooth="yes"/>
-      <point x="704" y="1021"/>
-      <point x="806" y="966"/>
-      <point x="806" y="786" type="curve"/>
-      <point x="869" y="891" type="line"/>
-      <point x="869" y="1058"/>
-      <point x="741" y="1179"/>
-      <point x="554" y="1179" type="curve" smooth="yes"/>
-      <point x="305" y="1179"/>
-      <point x="62" y="965"/>
-      <point x="62" y="567" type="curve" smooth="yes"/>
-      <point x="62" y="210"/>
-      <point x="257" y="-31"/>
-      <point x="616" y="-31" type="curve" smooth="yes"/>
-      <point x="950" y="-31"/>
-      <point x="1162" y="178"/>
-      <point x="1162" y="668" type="curve" smooth="yes"/>
-      <point x="1162" y="1353"/>
-      <point x="747" y="1795"/>
-      <point x="427" y="1795" type="curve" smooth="yes"/>
-      <point x="351" y="1795"/>
-      <point x="317" y="1770"/>
-      <point x="290" y="1694" type="curve"/>
-      <point x="673" y="1530"/>
-      <point x="773" y="1303"/>
-      <point x="773" y="957" type="curve" smooth="yes"/>
-      <point x="773" y="230"/>
-      <point x="753" y="128"/>
+      <point x="307" y="63" type="curve" smooth="yes"/>
+      <point x="260" y="63"/>
+      <point x="222" y="91"/>
+      <point x="222" y="285" type="curve" smooth="yes"/>
+      <point x="222" y="456"/>
+      <point x="251" y="499"/>
+      <point x="303" y="499" type="curve" smooth="yes"/>
+      <point x="344" y="499"/>
+      <point x="394" y="472"/>
+      <point x="394" y="384" type="curve"/>
+      <point x="424" y="435" type="line"/>
+      <point x="424" y="517"/>
+      <point x="362" y="576"/>
+      <point x="271" y="576" type="curve" smooth="yes"/>
+      <point x="149" y="576"/>
+      <point x="30" y="471"/>
+      <point x="30" y="277" type="curve" smooth="yes"/>
+      <point x="30" y="103"/>
+      <point x="125" y="-15"/>
+      <point x="301" y="-15" type="curve" smooth="yes"/>
+      <point x="464" y="-15"/>
+      <point x="567" y="87"/>
+      <point x="567" y="326" type="curve" smooth="yes"/>
+      <point x="567" y="661"/>
+      <point x="365" y="876"/>
+      <point x="208" y="876" type="curve" smooth="yes"/>
+      <point x="171" y="876"/>
+      <point x="155" y="864"/>
+      <point x="142" y="827" type="curve"/>
+      <point x="329" y="747"/>
+      <point x="377" y="636"/>
+      <point x="377" y="467" type="curve" smooth="yes"/>
+      <point x="377" y="112"/>
+      <point x="368" y="63"/>
     </contour>
     <contour>
-      <point x="612" y="1050" type="move" name="top"/>
+      <point x="299" y="-146" type="move" name="btm"/>
     </contour>
     <contour>
-      <point x="612" y="-300" type="move" name="btm"/>
+      <point x="299" y="513" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9Ii0zMSIgd2lkdGg9IjE1OSIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iMTAyMSIgd2lkdGg9IjE1OCIg
-Lz4KICAgICAgPHZzdGVtIHBvcz0iNzczIiB3aWR0
-aD0iMTI2IiAvPgogICAgPC9oaW50c2V0PgogIDwv
-aGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

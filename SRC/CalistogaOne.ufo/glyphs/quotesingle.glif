@@ -1,30 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotesingle" format="1">
-  <advance width="674"/>
+  <advance width="329"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
-      <point x="484" y="1774" type="line" name="hr00"/>
-      <point x="426" y="1796"/>
-      <point x="242" y="1793"/>
-      <point x="190" y="1775" type="curve"/>
-      <point x="235" y="954" type="line"/>
-      <point x="293" y="933"/>
-      <point x="397" y="928"/>
-      <point x="449" y="945" type="curve"/>
+      <point x="236" y="866" type="line" name="hr00"/>
+      <point x="208" y="877"/>
+      <point x="118" y="875"/>
+      <point x="93" y="867" type="curve"/>
+      <point x="115" y="466" type="line"/>
+      <point x="143" y="456"/>
+      <point x="194" y="453"/>
+      <point x="219" y="461" type="curve"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjE3NzUiIHdpZHRoPSIxNCIgLz4KICAgICAg
-PHZzdGVtIHBvcz0iMjE3IiB3aWR0aD0iMjQ0IiAv
-PgogICAgPC9oaW50c2V0PgogIDwvaGludFNldExp
-c3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

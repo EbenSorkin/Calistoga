@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
-  <advance width="1252"/>
+  <advance width="611"/>
   <unicode hex="00B1"/>
   <outline>
     <component base="plus"/>
-    <component base="hyphen" xOffset="60" yOffset="-610"/>
+    <component base="hyphen" xOffset="29" yOffset="-298"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

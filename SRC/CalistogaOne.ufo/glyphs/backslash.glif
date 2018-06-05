@@ -1,21 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="1343"/>
+  <advance width="656"/>
   <unicode hex="005C"/>
   <outline>
-    <component base="slash" xScale="-1" xOffset="1343"/>
+    <component base="slash" xScale="-1" xOffset="656"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0ibHNiIj4KICAgICAgPGhzdGVtIHBv
-cz0iLTI2MSIgd2lkdGg9IjIxMzEiIC8+CiAgICAg
-IDx2c3RlbSBwb3M9IjI1OCIgd2lkdGg9IjgzMyIg
-Lz4KICAgIDwvaGludHNldD4KICA8L2hpbnRTZXRM
-aXN0Pgo=
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

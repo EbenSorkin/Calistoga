@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="1252"/>
+  <advance width="611"/>
   <unicode hex="002B"/>
   <outline>
     <contour>
-      <point x="180" y="885" type="line" name="hr00"/>
-      <point x="160" y="843"/>
-      <point x="158" y="737"/>
-      <point x="178" y="685" type="curve"/>
-      <point x="1074" y="685" type="line"/>
-      <point x="1092" y="728"/>
-      <point x="1093" y="833"/>
-      <point x="1073" y="885" type="curve"/>
+      <point x="88" y="432" type="line" name="hr00"/>
+      <point x="78" y="412"/>
+      <point x="77" y="360"/>
+      <point x="87" y="334" type="curve"/>
+      <point x="524" y="334" type="line"/>
+      <point x="533" y="355"/>
+      <point x="534" y="407"/>
+      <point x="524" y="432" type="curve"/>
     </contour>
     <contour>
-      <point x="525" y="340" type="line"/>
-      <point x="568" y="320"/>
-      <point x="673" y="317"/>
-      <point x="725" y="338" type="curve"/>
-      <point x="725" y="1233" type="line"/>
-      <point x="682" y="1252"/>
-      <point x="577" y="1254"/>
-      <point x="525" y="1233" type="curve"/>
+      <point x="256" y="166" type="line"/>
+      <point x="277" y="156"/>
+      <point x="329" y="155"/>
+      <point x="354" y="165" type="curve"/>
+      <point x="354" y="602" type="line"/>
+      <point x="333" y="611"/>
+      <point x="282" y="612"/>
+      <point x="256" y="602" type="curve"/>
     </contour>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0iaHIwMCI+CiAgICAgIDxoc3RlbSBw
-b3M9IjY4NSIgd2lkdGg9IjIwMCIgLz4KICAgICAg
-PGhzdGVtIHBvcz0iMTIzMyIgd2lkdGg9Ii0yMCIg
-Lz4KICAgICAgPHZzdGVtIHBvcz0iNTI1IiB3aWR0
-aD0iMjAwIiAvPgogICAgPC9oaW50c2V0PgogIDwv
-aGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>

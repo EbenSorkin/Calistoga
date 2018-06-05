@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ellipsis" format="1">
-  <advance width="2412"/>
+  <advance width="1178"/>
   <unicode hex="2026"/>
   <outline>
-    <component base="period" xOffset="1610"/>
-    <component base="period" xOffset="805"/>
+    <component base="period" xOffset="786"/>
+    <component base="period" xOffset="393"/>
     <component base="period"/>
   </outline>
   <lib>
-  <dict>
-  <key>com.adobe.type.autohint</key>
-  <data>
-ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw
-b2ludFRhZz0ibHNiIj4KICAgICAgPGhzdGVtIHBv
-cz0iLTEwIiB3aWR0aD0iLTIxIiAvPgogICAgICA8
-dnN0ZW0zIHN0ZW0zTGlzdD0iMTc4LDQ0OCw5ODIs
-NDQ4LDE3ODYsNDQ4IiAvPgogICAgPC9oaW50c2V0
-PgogIDwvaGludFNldExpc3Q+Cg==
-  </data>
-  </dict>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-05-23 18:55:28 +0000</string>
+    </dict>
   </lib>
 </glyph>
