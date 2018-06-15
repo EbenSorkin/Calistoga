@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="T" format="1">
+  <advance width="631"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="591" y="710" type="curve"/>
+      <point x="566" y="710"/>
+      <point x="534" y="706"/>
+      <point x="509" y="698" type="curve"/>
+      <point x="122" y="698" type="line"/>
+      <point x="98" y="706"/>
+      <point x="64" y="710"/>
+      <point x="40" y="710" type="curve"/>
+      <point x="16" y="657"/>
+      <point x="8" y="514"/>
+      <point x="8" y="458" type="curve"/>
+      <point x="25" y="451"/>
+      <point x="67" y="448"/>
+      <point x="92" y="447" type="curve"/>
+      <point x="105" y="593"/>
+      <point x="158" y="619"/>
+      <point x="211" y="619" type="curve" smooth="yes"/>
+      <point x="232" y="619" type="line"/>
+      <point x="232" y="118" type="line" smooth="yes"/>
+      <point x="232" y="81"/>
+      <point x="197" y="64"/>
+      <point x="125" y="64" type="curve"/>
+      <point x="125" y="40"/>
+      <point x="133" y="16"/>
+      <point x="147" y="0" type="curve"/>
+      <point x="483" y="0" type="line"/>
+      <point x="498" y="16"/>
+      <point x="506" y="40"/>
+      <point x="506" y="64" type="curve"/>
+      <point x="434" y="64"/>
+      <point x="398" y="81"/>
+      <point x="398" y="118" type="curve" smooth="yes"/>
+      <point x="398" y="619" type="line"/>
+      <point x="419" y="619" type="line" name="hr01" smooth="yes"/>
+      <point x="487" y="619"/>
+      <point x="526" y="593"/>
+      <point x="539" y="447" type="curve"/>
+      <point x="565" y="447"/>
+      <point x="605" y="451"/>
+      <point x="623" y="458" type="curve"/>
+      <point x="623" y="514"/>
+      <point x="615" y="657"/>
+    </contour>
+    <contour>
+      <point x="315" y="0" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="313" y="963" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-15 18:26:57 +0000</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

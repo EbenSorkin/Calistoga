@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhornhookabove" format="1">
+  <advance width="574"/>
+  <unicode hex="1EED"/>
+  <outline>
+    <component base="uhorn"/>
+    <component base="hookabovecomb" xOffset="292"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-15 16:59:22 +0000</string>
+    </dict>
+  </lib>
+</glyph>

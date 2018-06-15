@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plusminus" format="1">
+  <advance width="629"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <component base="minus" yOffset="-267"/>
+    <component base="plus" yOffset="40"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-13 17:23:24 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>plus</string>
+    </dict>
+  </lib>
+</glyph>

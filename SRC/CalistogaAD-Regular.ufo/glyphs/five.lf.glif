@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.lf" format="1">
+  <advance width="603"/>
+  <outline>
+    <component base="five"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-15 17:01:07 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>five</string>
+    </dict>
+  </lib>
+</glyph>

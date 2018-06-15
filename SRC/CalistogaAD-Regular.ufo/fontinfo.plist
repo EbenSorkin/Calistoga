@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>822</integer>
+	<key>capHeight</key>
+	<integer>698</integer>
+	<key>copyright</key>
+	<string>Copyright (c) 2018, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name 'Calistoga'.</string>
+	<key>descender</key>
+	<integer>-276</integer>
+	<key>familyName</key>
+	<string>CalistogaAD</string>
+	<key>openTypeHeadCreated</key>
+	<string>2018/06/15 14:36:05</string>
+	<key>openTypeHheaAscender</key>
+	<integer>1000</integer>
+	<key>openTypeHheaDescender</key>
+	<integer>-300</integer>
+	<key>openTypeHheaLineGap</key>
+	<integer>0</integer>
+	<key>openTypeNameDescription</key>
+	<string>Calistoga was inspired by the posters Oscar M. Bryn made for the Santa Fe Railroad.</string>
+	<key>openTypeNameDesigner</key>
+	<string>Yvonne Schuttler, Eben Sorkin</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>www.ysch.de</string>
+	<key>openTypeNameLicense</key>
+	<string>This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL</string>
+	<key>openTypeNameLicenseURL</key>
+	<string>http://scripts.sil.org/OFL</string>
+	<key>openTypeNameManufacturer</key>
+	<string>www.sorkintype.com</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>www.sorkintype.com</string>
+	<key>openTypeNamePreferredFamilyName</key>
+	<string>CalistogaAD</string>
+	<key>openTypeNamePreferredSubfamilyName</key>
+	<string>Regular</string>
+	<key>openTypeOS2TypoAscender</key>
+	<integer>1000</integer>
+	<key>openTypeOS2TypoDescender</key>
+	<integer>-300</integer>
+	<key>openTypeOS2TypoLineGap</key>
+	<integer>0</integer>
+	<key>openTypeOS2VendorID</key>
+	<string>STC</string>
+	<key>openTypeOS2WeightClass</key>
+	<integer>400</integer>
+	<key>openTypeOS2WidthClass</key>
+	<integer>5</integer>
+	<key>openTypeOS2WinAscent</key>
+	<integer>1700</integer>
+	<key>openTypeOS2WinDescent</key>
+	<integer>400</integer>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-16</integer>
+		<integer>0</integer>
+		<integer>530</integer>
+		<integer>546</integer>
+		<integer>610</integer>
+		<integer>620</integer>
+		<integer>698</integer>
+		<integer>714</integer>
+		<integer>769</integer>
+		<integer>789</integer>
+		<integer>822</integer>
+		<integer>838</integer>
+	</array>
+	<key>postscriptFontName</key>
+	<string>CalistogaAD-Regular</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+		<integer>-292</integer>
+		<integer>-276</integer>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>76</integer>
+		<integer>80</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>161</integer>
+		<integer>164</integer>
+		<integer>172</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-90</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>102</integer>
+	<key>styleMapStyleName</key>
+	<string>regular</string>
+	<key>styleName</key>
+	<string>Regular</string>
+	<key>trademark</key>
+	<string>Calistoga is a trademark of Sorkin Type Co.</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>5</integer>
+	<key>xHeight</key>
+	<integer>530</integer>
+</dict>
+</plist>

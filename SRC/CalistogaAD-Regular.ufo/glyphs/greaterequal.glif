@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greaterequal" format="1">
+  <advance width="629"/>
+  <unicode hex="2265"/>
+  <outline>
+    <contour>
+      <point x="540" y="495" type="line" name="hr00"/>
+      <point x="167" y="769" type="line"/>
+      <point x="138" y="758"/>
+      <point x="109" y="708"/>
+      <point x="99" y="679" type="curve"/>
+      <point x="388" y="469" type="line"/>
+      <point x="99" y="250" type="line"/>
+      <point x="109" y="222"/>
+      <point x="138" y="172"/>
+      <point x="167" y="160" type="curve"/>
+      <point x="540" y="442" type="line"/>
+    </contour>
+    <component base="minus" yOffset="-267"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-13 17:23:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>plus</string>
+    </dict>
+  </lib>
+</glyph>
