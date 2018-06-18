@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0312"/>
+  <outline>
+    <contour>
+      <point x="1" y="617" type="curve" smooth="yes"/>
+      <point x="49" y="617"/>
+      <point x="82" y="648"/>
+      <point x="82" y="697" type="curve" smooth="yes"/>
+      <point x="82" y="736"/>
+      <point x="56" y="773"/>
+      <point x="6" y="773" type="curve" smooth="yes"/>
+      <point x="2" y="773"/>
+      <point x="-2" y="772"/>
+      <point x="-6" y="771" type="curve"/>
+      <point x="-7" y="775"/>
+      <point x="-8" y="779"/>
+      <point x="-8" y="782" type="curve" smooth="yes"/>
+      <point x="-8" y="814"/>
+      <point x="11" y="835"/>
+      <point x="40" y="851" type="curve"/>
+      <point x="40" y="868"/>
+      <point x="27" y="885"/>
+      <point x="14" y="889" type="curve" name="hr00"/>
+      <point x="-74" y="858"/>
+      <point x="-94" y="772"/>
+      <point x="-94" y="729" type="curve" smooth="yes"/>
+      <point x="-94" y="650"/>
+      <point x="-52" y="617"/>
+    </contour>
+    <contour>
+      <point x="0" y="822" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-13 13:51:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

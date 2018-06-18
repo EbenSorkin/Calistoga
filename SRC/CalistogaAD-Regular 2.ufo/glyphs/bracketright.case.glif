@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright.case" format="1">
+  <advance width="345"/>
+  <outline>
+    <contour>
+      <point x="144" y="753" type="line" name="hr00"/>
+      <point x="144" y="-63" type="line"/>
+      <point x="45" y="-63" type="line"/>
+      <point x="34" y="-86"/>
+      <point x="29" y="-105"/>
+      <point x="29" y="-132" type="curve"/>
+      <point x="295" y="-132" type="line"/>
+      <point x="295" y="822" type="line"/>
+      <point x="29" y="822" type="line"/>
+      <point x="29" y="795"/>
+      <point x="34" y="777"/>
+      <point x="45" y="753" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-14 04:27:19 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>bracketright</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

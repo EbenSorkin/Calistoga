@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemetleft" format="1">
+  <advance width="562"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="154" y="288" type="line" name="hr00"/>
+      <point x="260" y="502" type="line"/>
+      <point x="249" y="524"/>
+      <point x="232" y="536"/>
+      <point x="212" y="544" type="curve"/>
+      <point x="27" y="357" type="line"/>
+      <point x="27" y="296" type="line"/>
+      <point x="212" y="107" type="line"/>
+      <point x="232" y="116"/>
+      <point x="249" y="128"/>
+      <point x="260" y="150" type="curve"/>
+      <point x="154" y="364" type="line"/>
+    </contour>
+    <component base="guilsinglleft" xOffset="261"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-15 13:46:39 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>guilsinglleft</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>guilsinglleft</string>
+    </dict>
+  </lib>
+</glyph>

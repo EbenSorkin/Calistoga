@@ -110,6 +110,11 @@ value = STC;
 {
 name = trademark;
 value = "Calistoga is a trademark of Sorkin Type Co.";
+},
+{
+name = fsType;
+value = (
+);
 }
 );
 date = "2018-06-15 18:36:05 +0000";

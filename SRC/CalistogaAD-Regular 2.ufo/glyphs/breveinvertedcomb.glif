@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="breveinvertedcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0311"/>
+  <outline>
+    <contour>
+      <point x="-180" y="635" type="curve"/>
+      <point x="-176" y="622"/>
+      <point x="-157" y="615"/>
+      <point x="-138" y="615" type="curve" smooth="yes"/>
+      <point x="-121" y="615"/>
+      <point x="-99" y="620"/>
+      <point x="-92" y="631" type="curve"/>
+      <point x="-92" y="676"/>
+      <point x="-60" y="720"/>
+      <point x="0" y="720" type="curve" smooth="yes"/>
+      <point x="60" y="720"/>
+      <point x="92" y="676"/>
+      <point x="92" y="631" type="curve"/>
+      <point x="99" y="620"/>
+      <point x="122" y="615"/>
+      <point x="138" y="615" type="curve" smooth="yes"/>
+      <point x="158" y="615"/>
+      <point x="176" y="622"/>
+      <point x="180" y="635" type="curve"/>
+      <point x="180" y="747"/>
+      <point x="110" y="817"/>
+      <point x="0" y="817" type="curve" smooth="yes"/>
+      <point x="-111" y="817"/>
+      <point x="-180" y="747"/>
+    </contour>
+    <contour>
+      <point x="0" y="822" type="move" name="_top"/>
+    </contour>
+    <contour>
+      <point x="0" y="1033" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-13 13:51:06 +0000</string>
+      <key>public.markColor</key>
+      <string>0.04,0.57,0.04,1</string>
+    </dict>
+  </lib>
+</glyph>

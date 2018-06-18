@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.tf.zero" format="1">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="181" y="54" type="line"/>
+      <point x="232" y="32" type="line"/>
+      <point x="445" y="669" type="line"/>
+      <point x="395" y="701" type="line"/>
+    </contour>
+    <component base="zero.tf" yOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-14 03:55:01 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>zero.tf</string>
+      <key>public.markColor</key>
+      <string>0.67,0.95,0.38,1</string>
+    </dict>
+  </lib>
+</glyph>

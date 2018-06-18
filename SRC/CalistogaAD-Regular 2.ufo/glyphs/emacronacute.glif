@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emacronacute" format="1">
+  <advance width="500"/>
+  <unicode hex="1E17"/>
+  <outline>
+    <component base="e"/>
+    <component base="macroncomb" xOffset="273"/>
+    <component base="acutecomb" xOffset="273" yOffset="162"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-06-15 13:53:59 +0000</string>
+    </dict>
+  </lib>
+</glyph>
