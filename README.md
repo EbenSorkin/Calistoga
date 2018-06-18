@@ -1,7 +1,8 @@
 Calistoga by Sorkin Type
 ===========================
 
-Calistoga is an original typeface designed by Yvonne Schuttler.
+Calistoga is an original typeface designed by Yvonne Schuttler in 2011 and published by [Sorkin Type](https://www.sorkintype.com). 
+Eben Sorkin expanded the language support and refined the design in 2018.
 
 Calistoga was inspired by the posters Oscar M. Bryn made for the Santa Fe Railroad.
 
@@ -10,26 +11,14 @@ It supports Windows 1252, Mac Roman, Google Core, Google Plus, Google Pro, Plus 
 License
 -------
 
-Calistoga is available under the SIL Open Font License v1.1, for more details see [OFL.txt](OFL.txt).
+Calistoga is available under the SIL Open Font License v1.1, for more details see [OFL.txt](OFL.txt)
 
 Contributions
 -------------
 
-The project is being extended and refined by Eben Sorkin @ Sorkin Type
-To contribute ideas and feedback, see [https://github.com/EbenSorkin/Calistoga](https://github.com/EbenSorkin/Calistoga)
+To contribute ideas and feedback, see [github.com/SorkinType/Calistoga](https://github.com/SorkinType/Calistoga)
 
-
-Source Files - Glyphs app file
-------------
-
-```
-└── sources
-    ├── Calistoga.glyphs	# Contains all data to build the font
-
-
-```
-
-Build Instructions - None
+Build Instructions
 ------------------
 
-To build the font use Glyphs App and export TTF, OTF or other supported file formats.
+To build the font, use [Glyphs App](https://www.glyphapp.com) and go File, Export, OTF, with autohinting and remove overlap, and TTF with autohinting and no remove overlap.
